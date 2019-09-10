@@ -20,3 +20,26 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+  .App {
+      display: flex;
+      flex-direction: column;
+  }
+
+  .specials {
+      background: blue;
+      width: 75%;
+      display: flex;
+      flex-direction: row;
+  }
+
+  .specials div {
+      width: 50px;
+  }
+
+  .numbers {
+      display: flex;
+      flex-direction: row;
+      width: 75%;
+      background: yellow;
+  }

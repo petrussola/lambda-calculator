@@ -20,9 +20,9 @@ const Numbers = () => {
        {
          number.map( 
            (numberEach) => (
-            <NumberButton 
+              <NumberButton 
               number={numberEach}
-            />
+              />
          ))
        }
     </div>
