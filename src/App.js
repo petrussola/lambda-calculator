@@ -26,7 +26,7 @@ function App() {
         <Display />
         <Numbers />
         <Operators />
-        {/* <Specials /> */}
+        <Specials />
       </div>
     </div>
   );
