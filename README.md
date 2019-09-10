@@ -123,4 +123,4 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 - Add some icons to improve the operator characters aesthetics. Research any icon/font library and implement it into your project.
 - Convert your CSS styling to use Sass/Scss
 
-Pere 
+Pere Sola Claver - 13:56 UK time
